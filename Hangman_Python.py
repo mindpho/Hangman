@@ -65,7 +65,7 @@ if intro == "Y":
                     print("-|        ")
                     print("-|^^^^^^^^")
                 elif lives == 1:
-                    print("\nYou have",lives,"lives left.")
+                    print("\nYou have",lives,"live left.")
                     print("-|--------")
                     print("-|    O   ")
                     print("-|   /|\  ")
